@@ -1,0 +1,16 @@
+{
+  "name": "ouryoutube",
+  "version": "1.0.0",
+  "description": "my own youtube website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "and",
+    "backend"
+  ],
+  "author": "Vishal Verma",
+  "license": "ISC"
+}
